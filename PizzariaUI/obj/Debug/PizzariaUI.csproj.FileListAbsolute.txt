@@ -10,3 +10,15 @@ C:\Users\james\Documents\GitHub\pizzaui\PizzariaUI\obj\Debug\PizzariaUI.exe
 C:\Users\james\Documents\GitHub\pizzaui\PizzariaUI\obj\Debug\PizzariaUI.pdb
 C:\Users\james\Documents\GitHub\pizzaui\PizzariaUI\obj\Debug\PizzariaUI.Customer_Login.resources
 C:\Users\james\Documents\GitHub\pizzaui\PizzariaUI\obj\Debug\PizzariaUI.New_Customer.resources
+C:\Users\yagna\Documents\GitHub\pizzaui\PizzariaUI\bin\Debug\PizzariaUI.exe.config
+C:\Users\yagna\Documents\GitHub\pizzaui\PizzariaUI\bin\Debug\PizzariaUI.exe
+C:\Users\yagna\Documents\GitHub\pizzaui\PizzariaUI\bin\Debug\PizzariaUI.pdb
+C:\Users\yagna\Documents\GitHub\pizzaui\PizzariaUI\obj\Debug\PizzariaUI.csprojAssemblyReference.cache
+C:\Users\yagna\Documents\GitHub\pizzaui\PizzariaUI\obj\Debug\PizzariaUI.New_Customer.resources
+C:\Users\yagna\Documents\GitHub\pizzaui\PizzariaUI\obj\Debug\PizzariaUI.Customer_Login.resources
+C:\Users\yagna\Documents\GitHub\pizzaui\PizzariaUI\obj\Debug\PizzariaUI.Form1.resources
+C:\Users\yagna\Documents\GitHub\pizzaui\PizzariaUI\obj\Debug\PizzariaUI.Properties.Resources.resources
+C:\Users\yagna\Documents\GitHub\pizzaui\PizzariaUI\obj\Debug\PizzariaUI.csproj.GenerateResource.cache
+C:\Users\yagna\Documents\GitHub\pizzaui\PizzariaUI\obj\Debug\PizzariaUI.csproj.CoreCompileInputs.cache
+C:\Users\yagna\Documents\GitHub\pizzaui\PizzariaUI\obj\Debug\PizzariaUI.exe
+C:\Users\yagna\Documents\GitHub\pizzaui\PizzariaUI\obj\Debug\PizzariaUI.pdb
